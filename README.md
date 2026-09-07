@@ -5,3 +5,6 @@ trabalhos de informática e logística
 
 ## Elaboração de gráficos e tabelas com os Dados abertos da ANTT
 <img width="816" height="570" alt="image" src="https://github.com/user-attachments/assets/29975f26-65d9-46fc-a4ab-fed324add0fb" />
+
+## Analise e Elaboração de Perguntas para a planilha de dados de Despesa pessoal de Brumadinho
+<img width="1216" height="591" alt="image" src="https://github.com/user-attachments/assets/c8ed0113-75bf-43d0-a664-6aa71f19cef9" />
