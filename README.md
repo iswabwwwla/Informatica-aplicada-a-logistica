@@ -11,3 +11,6 @@ trabalhos de informática e logística
 
 ## Elaboração de graficos no Power BI (Com dados abertos do ANTT das Empresas Multimodais)
 <img width="771" height="428" alt="image" src="https://github.com/user-attachments/assets/0a8fc1a8-3750-4e9f-b137-70cc020a1e64" />
+
+## Elaboração de graficos no Power BI (Com a Planilha de dados de Despesa pessoal de Brumadinho)
+ <img width="757" height="421" alt="image" src="https://github.com/user-attachments/assets/dd6a29b3-08c2-42f9-b4c2-8e0ae6cc900e" />
