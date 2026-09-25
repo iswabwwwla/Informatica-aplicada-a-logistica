@@ -1,5 +1,7 @@
 # Informática-aplicada-a-logística
 trabalhos de informática e logística
+## Índice
+* [Apresentação Pessoal em Equipe] (https://github.com/iswabwwwla/Informatica-aplicada-a-logistica#apresenta%C3%A7%C3%A3o-pessoal-em-equipe)
 ## Apresentação Pessoal em equipe
 <img width="1680" height="942" alt="image" src="https://github.com/user-attachments/assets/5b5da1d2-0da1-4a37-865b-b485f012e342" />
 
