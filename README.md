@@ -1,7 +1,12 @@
 # Informática-aplicada-a-logística
 trabalhos de informática e logística
 ## Índice
-* [Apresentação Pessoal em equipe] (# Apresentacao-Pessoal-em-equipe)
+* [Apresentação Pessoal em equipe]
+* [Elaboração de gráficos e tabelas com os Dados abertos da ANTT]
+* [Analise e Elaboração de Perguntas para a planilha de dados de Despesa pessoal de Brumadinho]
+* [Elaboração de graficos no Power BI (Com dados abertos do ANTT das Empresas Multimodais]
+* [Elaboração de graficos no Power BI (Com a Planilha de dados de Despesa pessoal de Brumadinho]
+  
 ## Apresentação Pessoal em equipe
 <img width="1680" height="942" alt="image" src="https://github.com/user-attachments/assets/5b5da1d2-0da1-4a37-865b-b485f012e342" />
 https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/c900430675c92f73405b1dc18f36eba61c6333a6/Comida%2C%20Pets%20e%20Viagem.pdf
