@@ -41,6 +41,7 @@ Também foi uma introdução importante para as próximas atividades, porque com
 ## Análise e Elaboração de Perguntas com os dados de Despesa Pessoal de Brumadinho
 
 <img width="1216" height="591" alt="Dados de despesa pessoal de Brumadinho" src="https://github.com/user-attachments/assets/c8ed0113-75bf-43d0-a664-6aa71f19cef9" />
+[**Acessar Planilha utilizada na atividade **](./despesa-pessoal-acordo-judicial-brumadinho.xlsx)
 
 Nessa atividade, eu trabalhei novamente no Excel, mas dessa vez utilizando uma base de dados relacionada às despesas pessoais do acordo judicial de Brumadinho.
 
