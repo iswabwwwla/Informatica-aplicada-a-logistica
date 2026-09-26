@@ -1,6 +1,6 @@
 # Informática Aplicada à Logística
 
-Este repositório reúne as atividades desenvolvidas durante a disciplina de Informática Aplicada à Logística. Ao longo das atividades, foram utilizadas diferentes ferramentas, como Excel e Power BI, trabalhando desde a organização e análise de dados até a criação de gráficos e dashboards interativos.
+Este repositório reúne algumas das atividades que desenvolvi durante a disciplina de Informática Aplicada à Logística. Durante as aulas, fui trabalhando com diferentes ferramentas, principalmente Excel e Power BI, e cada atividade acabou me ajudando a entender melhor a próxima.
 
 ## Índice
 
@@ -18,7 +18,9 @@ Este repositório reúne as atividades desenvolvidas durante a disciplina de Inf
 
 [**Acessar apresentação completa**](./Comida%2C%20Pets%20e%20Viagem.pdf)
 
-Nesta primeira atividade foi realizada uma apresentação pessoal em equipe. Além de permitir que cada integrante apresentasse um pouco sobre si, a atividade foi importante para desenvolver a comunicação, a organização e principalmente o trabalho em equipe.
+Nessa primeira atividade, eu participei de uma apresentação pessoal em equipe. Foi uma atividade mais simples, mas que ajudou bastante no desenvolvimento da comunicação, organização e trabalho em grupo.
+
+Além de apresentar um pouco sobre mim, também precisei colaborar com os outros integrantes para organizar o conteúdo e deixar a apresentação com uma sequência que fizesse sentido.
 
 ---
 
@@ -28,9 +30,11 @@ Nesta primeira atividade foi realizada uma apresentação pessoal em equipe. Al�
 
 [**Acessar planilha utilizada na atividade**](./operador_transporte_multimodal.xlsx)
 
-Nesta atividade foram utilizados dados abertos da ANTT para desenvolver análises no Excel. A partir da planilha foram criadas tabelas, gráficos e análises estatísticas para facilitar a interpretação das informações.
+Nessa atividade, eu comecei a trabalhar com uma base de dados da ANTT utilizando o Excel.
 
-Essa atividade também foi importante como uma introdução ao tratamento e à visualização de dados, conhecimentos que foram utilizados novamente nas atividades seguintes.
+A partir dos dados, eu criei tabelas, gráficos e fiz algumas análises estatísticas. Essa atividade foi importante para eu entender melhor como organizar uma quantidade maior de informações e como transformar os dados da planilha em algo mais visual e fácil de interpretar.
+
+Também foi uma introdução importante para as próximas atividades, porque comecei a ter mais contato com análise de dados e criação de gráficos.
 
 ---
 
@@ -38,11 +42,11 @@ Essa atividade também foi importante como uma introdução ao tratamento e à v
 
 <img width="1216" height="591" alt="Dados de despesa pessoal de Brumadinho" src="https://github.com/user-attachments/assets/c8ed0113-75bf-43d0-a664-6aa71f19cef9" />
 
-Nesta atividade foi utilizada uma base de dados relacionada às despesas pessoais do acordo judicial de Brumadinho.
+Nessa atividade, eu trabalhei novamente no Excel, mas dessa vez utilizando uma base de dados relacionada às despesas pessoais do acordo judicial de Brumadinho.
 
-O trabalho foi realizado no Excel e consistiu em analisar a base, elaborar perguntas que poderiam ser respondidas pelos dados e utilizar fórmulas, tabelas e gráficos para encontrar essas respostas.
+Primeiro, eu analisei as informações disponíveis na planilha e depois elaborei perguntas que poderiam ser respondidas utilizando os próprios dados.
 
-A atividade ajudou a desenvolver melhor a interpretação de uma base de dados, indo além da criação dos gráficos e buscando entender o que as informações realmente representavam.
+Para encontrar essas respostas, eu utilizei fórmulas, tabelas e gráficos. Essa atividade me ajudou a perceber que não basta apenas criar um gráfico, mas também é necessário saber o que procurar nos dados e como interpretar as informações apresentadas.
 
 ---
 
@@ -52,9 +56,11 @@ A atividade ajudou a desenvolver melhor a interpretação de uma base de dados, 
 
 [**Acessar arquivo do Power BI**](./EmpresasMultimodais%20Power%20BI.pbix)
 
-Depois de trabalhar os dados da ANTT no Excel, a mesma base foi utilizada no Power BI. Com ela foram desenvolvidos gráficos mais interativos e formas diferentes de visualizar as informações.
+Depois de trabalhar com a base da ANTT no Excel, eu utilizei os mesmos dados no Power BI.
 
-Essa atividade foi importante para conhecer melhor o Power BI e entender como os dados que antes eram analisados somente em planilhas também poderiam ser transformados em uma visualização mais dinâmica e interativa.
+Nessa etapa, comecei a desenvolver gráficos mais interativos e a entender melhor como funciona a criação de relatórios dentro do Power BI.
+
+Foi uma atividade importante porque consegui comparar a forma de trabalhar com os dados no Excel e no Power BI. No Power BI, eu consegui deixar as informações mais visuais e interativas, facilitando bastante a análise.
 
 ---
 
@@ -64,8 +70,10 @@ Essa atividade foi importante para conhecer melhor o Power BI e entender como os
 
 [**Acessar arquivo do Power BI**](./Cargos%20brumadinho.pbix)
 
-Na última atividade foram utilizados novamente os dados de despesas pessoais de Brumadinho, mas dessa vez a análise foi realizada no Power BI.
+Na última atividade, eu utilizei novamente a base de dados de Brumadinho, mas dessa vez trabalhei diretamente no Power BI.
 
-Diferente da atividade anterior feita no Excel, nessa etapa a base de dados foi utilizada para desenvolver gráficos interativos e, a partir das informações apresentadas nos próprios gráficos, elaborar e responder perguntas sobre os dados.
+Diferente da atividade que eu tinha feito antes no Excel, nessa etapa eu criei os gráficos primeiro e, a partir deles, fui elaborando perguntas que poderiam ser respondidas com as informações apresentadas.
 
-Essa atividade juntou os conhecimentos desenvolvidos durante as etapas anteriores, principalmente a análise de dados, elaboração de perguntas e criação de gráficos, agora aplicados dentro do Power BI.-8e0ae6cc900e" />
+Essa atividade foi importante porque reuniu várias coisas que eu já tinha aprendido nas atividades anteriores, como análise de dados, criação de perguntas, utilização de gráficos e interpretação das informações.
+
+No final, consegui perceber melhor a evolução entre trabalhar com uma planilha simples no Excel e depois transformar esses mesmos dados em gráficos e relatórios mais interativos no Power BI.
