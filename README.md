@@ -16,7 +16,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 
 <img width="1680" height="942" alt="Apresentação pessoal em equipe" src="https://github.com/user-attachments/assets/5b5da1d2-0da1-4a37-865b-b485f012e342" />
 
-[**Acessar apresentação completa**](Comida,Pets-e-Viagem.pptx)
+[**Acessar apresentação completa**]([Comida,Pets-e-Viagem.pptx](https://canva.link/6droe6i6zxd6oji))
 
 Nessa primeira atividade, eu participei de uma apresentação pessoal em equipe. Foi uma atividade mais simples, mas que ajudou bastante no desenvolvimento da comunicação, organização e trabalho em grupo.
 
