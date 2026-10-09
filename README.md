@@ -9,6 +9,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 - [Análise e Elaboração de Perguntas com os dados de Despesa Pessoal de Brumadinho](#análise-e-elaboração-de-perguntas-com-os-dados-de-despesa-pessoal-de-brumadinho)
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
+- 
 
 ---
 
@@ -80,3 +81,6 @@ Diferente da atividade que eu tinha feito antes no Excel, nessa etapa eu criei o
 Essa atividade foi importante porque reuniu várias coisas que eu já tinha aprendido nas atividades anteriores, como análise de dados, criação de perguntas, utilização de gráficos e interpretação das informações.
 
 No final, consegui perceber melhor a evolução entre trabalhar com uma planilha simples no Excel e depois transformar esses mesmos dados em gráficos e relatórios mais interativos no Power BI.
+
+## Power BI Com figuras
+<img width="759" height="425" alt="image" src="https://github.com/user-attachments/assets/5af68d11-99eb-40c7-8fce-76c3369c7d96" />
