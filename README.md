@@ -84,3 +84,5 @@ No final, consegui perceber melhor a evolução entre trabalhar com uma planilha
 
 ## Power BI Com figuras
 <img width="759" height="425" alt="image" src="https://github.com/user-attachments/assets/5af68d11-99eb-40c7-8fce-76c3369c7d96" />
+[**Acessar arquivo do Power BI com figuras**](./Cargos%20brumadinho%20com%20figuras.pbix)
+Nessa atividade, Trabalhei com informações sobre cargos e profissões, organizando os dados em tabela com figuras. Com isso, consegui entender melhor como transformar dados em informações ainda mais visuais e acessíveis para analise e interpretação dos resultados.
