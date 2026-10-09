@@ -9,7 +9,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 - [Análise e Elaboração de Perguntas com os dados de Despesa Pessoal de Brumadinho](#análise-e-elaboração-de-perguntas-com-os-dados-de-despesa-pessoal-de-brumadinho)
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
-- [Power BI Com figuras](https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/Cargos%20brumadinho%20com%20figuras.pbix)
+- [Power BI Com figuras](#Power-BI-Com-figuras)
 
 ---
 
