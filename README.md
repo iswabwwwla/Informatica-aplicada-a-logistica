@@ -97,9 +97,13 @@ Nessa atividade, Trabalhei com informações sobre cargos e profissões, organiz
 Nessa atividade foi trabalhado o uso do google colab e excel para realização de graficos comparativos(dispersão)
 Usando regressão linear, responder:  mais horas de estudo estão associadas a notas maiores?
 - Sim! Os dois gráficos mostram uma relação positiva entre as horas de estudo e as notas. Isso significa que, quanto mais horas o aluno estuda, maior tende a ser sua nota na prova.
-  
 Comparar os dois modelos de regressão linear e responder: eles são iguais?
 - Não são exatamente iguais. Os dois apresentam uma tendência crescente, uma relação positiva entre as horas estudadas e as notas. a diferença é pouca ao observar a equação gerada pelos dois graficos!
+
+## Dashboard Expectativa de vida
+<img width="760" height="425" alt="image" src="https://github.com/user-attachments/assets/6c1a46dc-9ae5-421e-a479-9d29afb66804" />
+[**Acessar o Dashboard**]()
+Nessa atividade foi realizada a coleta e observação dos dados de expectativa de vida no mundo, resultando em algumas comparações e visualizações gerando um dashboard objetivvo e explicatvo.
 
 
 
