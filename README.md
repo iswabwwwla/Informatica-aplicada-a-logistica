@@ -10,7 +10,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
 - [Power BI Com figuras](#Power-BI-Com-figuras)
--[Regressão linear com Google Colab e Excel](#regressão-linear-com-google-colab-e-excel)
+- [Regressão linear com Google Colab e Excel](#regressão-linear-com-google-colab-e-excel)
 - [Dashboard Expectativa de vida](#Dashboard-Expectativa-de-vida)
 
 ---
