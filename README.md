@@ -10,7 +10,7 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 - [Elaboração de gráficos no Power BI com os dados da ANTT](#elaboração-de-gráficos-no-power-bi-com-os-dados-da-antt)
 - [Elaboração de gráficos no Power BI com os dados de Brumadinho](#elaboração-de-gráficos-no-power-bi-com-os-dados-de-brumadinho)
 - [Power BI Com figuras](#Power-BI-Com-figuras)
-- [Regressão linear com google Colab e excel](#Regressão-linear-com-google-Colab-e-excel(Comparação-com-horas-e-notas-dos-alunos))
+-[Regressão linear com Google Colab e Excel](#regressão-linear-com-google-colab-e-excel)
 - [Dashboard Expectativa de vida](#Dashboard-Expectativa-de-vida)
 
 ---
@@ -91,7 +91,7 @@ No final, consegui perceber melhor a evolução entre trabalhar com uma planilha
 
 Nessa atividade, Trabalhei com informações sobre cargos e profissões, organizando os dados em tabela com figuras. Com isso, consegui entender melhor como transformar dados em informações ainda mais visuais e acessíveis para analise e interpretação dos resultados.
 
-## Regressão linear com google Colab e excel(Comparação com horas e notas dos alunos)
+## Regressão linear com Google Colab e Excel
 <img width="999" height="401" alt="image" src="https://github.com/user-attachments/assets/46ad95d4-622f-4e8a-ae7b-64630723435b" />
 
 [**Acessar código do Google Colab**](https://colab.research.google.com/github/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/Regress%C3%A3o_linear_com_notas_e_horas.ipynb)
