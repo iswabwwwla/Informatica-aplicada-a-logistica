@@ -103,6 +103,8 @@ Comparar os dois modelos de regressão linear e responder: eles são iguais?
 - Não são exatamente iguais. Os dois apresentam uma tendência crescente, uma relação positiva entre as horas estudadas e as notas. a diferença é pouca ao observar a equação gerada pelos dois graficos!
 
 ## Dashboard Expectativa de vida
+<img width="756" height="420" alt="image" src="https://github.com/user-attachments/assets/4dba73d3-5556-4821-8fcf-7d0a2451f7ce" />
+[**Acesse aqui o Dashboard**]()
 
 
 Nessa atividade foi realizada a coleta e observação dos dados de expectativa de vida no mundo, resultando em algumas comparações e visualizações gerando um dashboard objetivvo e explicatvo.
