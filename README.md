@@ -104,6 +104,7 @@ Comparar os dois modelos de regressão linear e responder: eles são iguais?
 
 ## Dashboard Expectativa de vida
 <img width="756" height="420" alt="image" src="https://github.com/user-attachments/assets/4dba73d3-5556-4821-8fcf-7d0a2451f7ce" />
+
 [**Acesse aqui o Dashboard**](https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/Dashboard%20expectativa%20de%20vida%20(1).pbix)
 
 Nessa atividade foi realizada a coleta e observação dos dados de expectativa de vida no mundo, resultando em algumas comparações e visualizações gerando um dashboard objetivvo e explicatvo.
