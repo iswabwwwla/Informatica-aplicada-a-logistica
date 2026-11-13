@@ -109,5 +109,14 @@ Comparar os dois modelos de regressão linear e responder: eles são iguais?
 
 Nessa atividade foi realizada a coleta e observação dos dados de expectativa de vida no mundo, resultando em algumas comparações e visualizações gerando um dashboard objetivvo e explicatvo.
 
+## Regressão linear de nupcialidade
+
+<img width="422" height="232" alt="image" src="https://github.com/user-attachments/assets/f1c293d8-3e63-437f-8db5-a49993ca452c" />
+O modelo de regressão linear se aplica ao caso, pois o fator R² é próximo de 1
+
+## utilização do dashboard
+<img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/bd2e05f7-71a8-48c4-ae05-ecf300dcfdf5" />
+
+
 
 
