@@ -112,14 +112,17 @@ Nessa atividade foi realizada a coleta e observação dos dados de expectativa d
 ## Regressão linear de nupcialidade
 
 <img width="422" height="232" alt="image" src="https://github.com/user-attachments/assets/f1c293d8-3e63-437f-8db5-a49993ca452c" />
-[**Acesse aqui a planilha**]()
+
+[**Acesse aqui a planilha**](https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/regressao%20linear%20de%20nupcialidade%20prova.xlsx)
 
 O modelo de regressão linear se aplica ao caso, pois o fator R² é próximo de 1
 
 ## Utilização do dashboard
 <img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/bd2e05f7-71a8-48c4-ae05-ecf300dcfdf5" />
-[**Acesse aqui o dashboard**]()
-[**Acesse aqui o Video da utilização dashboard**]()
+
+[**Acesse aqui o dashboard**](https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/painel%20de%20investimentos%20-%20SEADE.pbix)
+
+[**Acesse aqui o Video da utilização dashboard**](https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/utilizando%20o%20dashboard%20de%20investimentos%20(2).mp4)
 
 
 
