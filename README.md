@@ -12,6 +12,8 @@ Este repositório reúne algumas das atividades que desenvolvi durante a discipl
 - [Power BI Com figuras](#Power-BI-Com-figuras)
 - [Regressão linear com Google Colab e Excel](#regressão-linear-com-google-colab-e-excel)
 - [Dashboard Expectativa de vida](#Dashboard-Expectativa-de-vida)
+- [Regressão linear de nupcialidade](#Regressão-linear-de-nupcialidade)
+- [Utilização e visualização do dashboard de investimentos](#Utilização-e-visualização-do-dashboard-de-investimentos)
 
 ---
 
@@ -117,7 +119,7 @@ Nessa atividade foi realizada a coleta e observação dos dados de expectativa d
 
 O modelo de regressão linear se aplica ao caso, pois o fator R² é próximo de 1
 
-## Utilização do dashboard
+## Utilização e visualização do dashboard de investimentos
 <img width="860" height="479" alt="image" src="https://github.com/user-attachments/assets/bd2e05f7-71a8-48c4-ae05-ecf300dcfdf5" />
 
 [**Acesse aqui o dashboard**](https://github.com/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/painel%20de%20investimentos%20-%20SEADE.pbix)
