@@ -99,8 +99,10 @@ Nessa atividade, Trabalhei com informações sobre cargos e profissões, organiz
 [**Acessar código do Google Colab**](https://colab.research.google.com/github/iswabwwwla/Informatica-aplicada-a-logistica/blob/main/Regress%C3%A3o_linear_com_notas_e_horas.ipynb)
 
 Nessa atividade foi trabalhado o uso do google colab e excel para realização de graficos comparativos(dispersão)
+
 Usando regressão linear, responder:  mais horas de estudo estão associadas a notas maiores?
 - Sim! Os dois gráficos mostram uma relação positiva entre as horas de estudo e as notas. Isso significa que, quanto mais horas o aluno estuda, maior tende a ser sua nota na prova.
+  
 Comparar os dois modelos de regressão linear e responder: eles são iguais?
 - Não são exatamente iguais. Os dois apresentam uma tendência crescente, uma relação positiva entre as horas estudadas e as notas. a diferença é pouca ao observar a equação gerada pelos dois graficos!
 
